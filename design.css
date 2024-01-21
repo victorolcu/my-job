@@ -1,0 +1,46 @@
+.asset{
+    list-style-type: none;
+
+}
+.asset li {
+    
+display: inline;
+margin:1rem ;
+padding: 1rem;
+}
+.asset a{
+text-decoration: none;
+    color: black;
+}
+.control{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.mart a{
+    border-radius: 15px;
+    color: white;
+    border: 5px;
+    background-color:orangered;
+    padding:1rem ;
+}
+ h1{
+   font-size: 3rem; 
+}
+img {
+margin-left: 700px;
+}
+h2{
+    color: lightblue
+}
+p{
+    font-size: 3rem;
+}
+.made a{
+    color: white;
+    border: 5px;
+    background-color: orangered;
+    padding: 1rem;
+    border-radius: 17px;
+    text-decoration: none;
+}
